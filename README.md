@@ -10,13 +10,13 @@ cthelper
 ***cthelper*** 빌드는 ***Cygwin*** 환경에서 할 수 있습니다.
 
  * ***Required***
-  * Cygwin
-  * gcc
-  * make
+   * Cygwin
+   * gcc
+   * make
 
 ***cthelper*** 디렉토리에서 다음의 명령으로 빌드를 합니다.
 
-```c
+```bash
 [user@host cthelper]$ make
 make
 cthelper.o
