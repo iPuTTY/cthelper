@@ -1,7 +1,7 @@
 cthelper
 ==
 
-***cthelper*** 는 ***PTY*** helper 프로그램이며, ***iPuTTY***의 cygterm 백엔드를 사용할 때 필요 합니다.
+***cthelper*** 는 ***PTY*** helper 프로그램이며, ***iPuTTY*** 의 cygterm 백엔드를 사용할 때 필요 합니다.
 
 ***cthelper*** 는 [***PuTTYCyg***](https://code.google.com/archive/p/puttycyg/) 의 [putty-0.60-cygterm-20101029.patch](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/puttycyg/putty-0.60-cygterm-20101029.patch.gz) 에서 추출하였습니다.
 
